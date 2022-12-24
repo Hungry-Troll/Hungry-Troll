@@ -1,12 +1,15 @@
-### Hi there 👋
-<img src="https://img.shields.io/badge/Unity-000000??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> <img src="https://img.shields.io/badge/C-40AEF0??style=flat-square&logo=VBA&logoColor=VBA&logoColor=white"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>
+
+:books:Tech Stack:books:
+
+<img src="https://img.shields.io/badge/Unity-FF6600??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
 
 
 <!--**Hungry-Troll/Hungry-Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-000000??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/></a>-->
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+### Hi there 👋
 -->
