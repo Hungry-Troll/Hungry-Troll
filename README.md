@@ -1,11 +1,12 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Unity-000000??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> <img src="https://img.shields.io/badge/C-40AEF0??style=flat-square&logo=VBA&logoColor=VBA&logoColor=white"/>
 
+<a href="https://unity.com/kr"><img src="https://img.shields.io/badge/Unity-000000??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/></a>
 <!--
 **Hungry-Troll/Hungry-Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-<img src="https://img.shields.io/badge/이름-색상코드?style=flat-square&logo=로고명&logoColor=로고색"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
