@@ -1,8 +1,29 @@
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>
 
-:books:Tech Stack:books:
+<div align="center">
+:books:<strong>Tech Stack</strong>:books:
+<p><p>
+:star:Platforms & Languages:star:
+</p></p>
+<p><p>
+<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VBA-D9232E?style=flat&logo=Microsoft&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C-FF6384?style=flat&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+</p></p>
+<p><p><p><p>
+:hammer:Tools:wrench:
+</p></p></p></p>
+<img src="https://img.shields.io/badge/Unity-FF6600??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/> <p> <img src="https://img.shields.io/badge/Aseprite-FFD000?style=flat&logo=Aseprite&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/></p>
+</p></p>
+</p></p>
 
-<img src="https://img.shields.io/badge/Unity-FF6600??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/>
+</div>
+
+
 
 
 <!--**Hungry-Troll/Hungry-Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
