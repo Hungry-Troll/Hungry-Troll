@@ -31,13 +31,13 @@
 </p></p></p></p>
 :art:SNS & Portfolio:art:
 <p><p><p><p>
-<a href="https://blog.naver.com/i_am_gamer"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white&link="https://blog.naver.com/i_am_gamer"/></a>
+<a href="https://blog.naver.com/i_am_gamer" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white&link="https://blog.naver.com/i_am_gamer"/></a>
 <img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=SparkPost&logoColor=white"/>
 </p></p></p></p>
-<br><br><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"><br><br>
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
 </div>
 
