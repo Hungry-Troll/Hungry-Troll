@@ -1,8 +1,8 @@
-
+<!--
 <div align="center&fontSize=30">
 👏 Hi, I'm Hungry-Troll
 </div>
-
+-->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>
 
 <div align="center">
@@ -40,8 +40,7 @@
 <img src="https://img.shields.io/badge/Portfolio1-FF4785?style=flat&logo=SparkPost&logoColor=white"/>
 </p></p></p></p>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
 </div>
 
 
