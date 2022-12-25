@@ -29,10 +29,13 @@
 <img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white"/> 
 <img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=SparkPost&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=SparkPost&logoColor=white"/>
+</p></p></p></p>
+<p><p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
 </div>
-
-
 
 
 <!--**Hungry-Troll/Hungry-Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
