@@ -33,7 +33,7 @@
 <p><p><p><p>
 <a href="https://blog.naver.com/i_am_gamer" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white&link="https://blog.naver.com/i_am_gamer"/></a>
 <a href="mailto:i_am_gamer@naver.com"><img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> </a>
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 
+<a href="https://www.youtube.com/channel/UC1vY8HLaBPPzphSV4-8ZcLw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> </a>
 <img src="https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=SparkPost&logoColor=white"/>
 </p></p></p></p>
 <br><br>
