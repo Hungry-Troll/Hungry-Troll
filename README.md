@@ -30,8 +30,6 @@
 <img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> 
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Portfolio-FF4785?style=flat&logo=SparkPost&logoColor=white"/> 
-
-  SparkPost
 </div>
 
 
