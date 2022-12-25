@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/Portfolio1-FF4785?style=flat&logo=SparkPost&logoColor=white"/>
 </p></p></p></p>
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"> <img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"><img src="https://github-readme-stats.vercel.app/api?username=Hungry-Troll&show_icons=true">
 </div>
 
 
