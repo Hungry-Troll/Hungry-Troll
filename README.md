@@ -5,6 +5,8 @@
 -->
 <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>
 
+
+
 <div align="center">
 :books:<strong>Tech Stack</strong>:books:
 <p><p>
