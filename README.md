@@ -7,10 +7,11 @@
 
 <img src="https://user-images.githubusercontent.com/64481653/210174663-a3ac54e9-e118-46e4-803d-3225772d517c.png"/> 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/64481653/210174967-63a0bed5-42e6-4cad-8b23-074def84b525.png"/>
+<img src="https://user-images.githubusercontent.com/64481653/210175576-d4bb9047-b64e-4bb1-ad60-c2407e8fdb5e.gif"/>
   
 ### 안녕하세요 게임을 좋아하는 개발자 김용현입니다. 
 
+<img src="https://user-images.githubusercontent.com/64481653/210175340-dfffc93d-eade-4d59-83af-89fcc093c03c.gif"/> 나만의 게임 만드는 것을 목표로 하고 있습니다. <img src="https://user-images.githubusercontent.com/64481653/210175352-8bc6739d-6e67-4314-bfdf-b78465c774b1.gif"/>
 <br><br>
 <div align="center">
 :books:<strong>Tech Stack</strong>:books:
