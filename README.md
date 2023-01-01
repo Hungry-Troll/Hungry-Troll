@@ -6,7 +6,12 @@
 <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>-->
 
 <img src="https://user-images.githubusercontent.com/64481653/210174663-a3ac54e9-e118-46e4-803d-3225772d517c.png"/> 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/64481653/210174967-63a0bed5-42e6-4cad-8b23-074def84b525.png"/>
+  
+### 안녕하세요 게임을 좋아하는 개발자 김용현입니다. 
 
+<br><br>
 <div align="center">
 :books:<strong>Tech Stack</strong>:books:
 <p><p>
