@@ -39,9 +39,11 @@
 </p></p></p></p>
 📬 SNS 📧
 <p><p><p><p>
+<a href="https://sedate-juice-519.notion.site/Dev_YH-resume-bff021d2b5e24b93a0724c1819a1c6bb"><img src="https://img.shields.io/badge/Notion-00148C?style=flat&logo=Notion&logoColor=white"/> </a>
 <a href="https://blog.naver.com/i_am_gamer" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=Blogger&logoColor=white&link="https://blog.naver.com/i_am_gamer"/></a>
 <a href="mailto:i_am_gamer@naver.com"><img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> </a>
-<a href="https://www.youtube.com/channel/UC1vY8HLaBPPzphSV4-8ZcLw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/> </a>
+<a href="https://www.youtube.com/channel/UC1vY8HLaBPPzphSV4-8ZcLw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
+
 </p></p></p></p>
 :art:Portfolio:art:
 <p><p>
