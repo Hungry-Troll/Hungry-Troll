@@ -1,8 +1,3 @@
-<!--
-<div align="center&fontSize=30">
-👏 Hi, I'm Hungry-Troll
-</div>
--->
 <!--<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,0,0,0,50,100&height=150&section=header&text=Hungry-Troll&fontSize=40&fontAlign=70&fontAlignY=25&rotate=10"/>-->
 
 <img src="https://user-images.githubusercontent.com/64481653/210174663-a3ac54e9-e118-46e4-803d-3225772d517c.png"/> 
