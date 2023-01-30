@@ -50,8 +50,6 @@
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hungry-Troll&layout=compact"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hungry-Troll&show_icons=true">
 </div>
 
-
 <!--**Hungry-Troll/Hungry-Troll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
