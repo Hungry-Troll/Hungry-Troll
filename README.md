@@ -14,7 +14,7 @@
 :star:Platforms & Languages:star:
 </p></p>
 <p><p>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/> 
+<img src="https://img.shields.io/badge/C%20Sharp-white"/> 
 <img src="https://img.shields.io/badge/VBA-D9232E?style=flat&logo=Microsoft&logoColor=white"/> 
 <img src="https://img.shields.io/badge/C-FF6384?style=flat&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
