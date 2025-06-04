@@ -23,13 +23,13 @@
 :hammer:Tools:wrench:
 </p></p></p></p>
 <img src="https://img.shields.io/badge/Unity-FF6600??style=flat-square&logo=Unity&logoColor=Unity&logoColor=#25A162"/> 
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=Visual Studio&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logoColor=white"/> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat&logo=Sourcetree&logoColor=white"/> 
 <p> 
 <img src="https://img.shields.io/badge/Aseprite-FFD000?style=flat&logo=Aseprite&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logo=Adobe Photoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logo=Adobe Premiere Pro&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat&logoColor=white"/>
 </p>
 </p></p></p></p>
 📬 SNS 📧
