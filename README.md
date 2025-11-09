@@ -39,6 +39,7 @@
 <a href="mailto:i_am_gamer@naver.com"><img src="https://img.shields.io/badge/mail-30B980?style=flat&logo=Gmail&logoColor=white"/> </a>
 <a href="https://www.youtube.com/channel/UC1vY8HLaBPPzphSV4-8ZcLw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"/>
 
+<!--
 </p></p></p></p>
 :art:Portfolio:art:
 <p><p>
